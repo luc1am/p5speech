@@ -1,0 +1,123 @@
+{
+   "brain":[
+      {
+         "triggers":[
+           "like to cook",
+            "what to cook",
+            "what should i make",
+            "general info",
+            "general information",
+            "favorite"
+
+
+         ],
+         "responses":[
+           "soup. big bowl of soup",
+           "lucia makes a mean ratatouille, but like its without tomatoes, you know? like there are cherry tomatoes and they get all soft and nice after baking it for a long time, and then like there was a whitefish moment, tilapia i think? that was really good. cian helped too.",
+           "nice something uhhh something easy",
+           "i am a great chef. i demand to be called chef whenever im holding a knife. which is a lot."
+
+         ]
+      },
+      {
+         "triggers":[
+           "do you bake",
+           "baking",
+           "baked",
+           "dont like cooking",
+           "skill",
+           "why",
+           "oven"
+
+         ],
+         "responses":[
+           "yeah, bread, focaccia, brownies, brookies and such😓",
+           "this dude has a sourdough starter in his fridge, so I feel like that says enough.",
+           "sometimes when I feel lazy i will get baked"
+
+         ]
+      },
+      {
+         "triggers":[
+           "i make for dinner",
+           "i eat for",
+           "get better",
+           "how to",
+           "im scared",
+           "i just keep shitting myself on the toilet and i need help with that"
+
+         ],
+         "responses":[
+           "some nice bread and hard cheese is always a nice. easy. low effort.",
+           "the first step to cooking is just to go in and do it. as long as you give it your 100% attention, then whatever you make will be edible.",
+           "just go and fuck it up. trust your instincts"
+         ]
+      },
+      {
+        "triggers": [
+          "fucked up",
+	        "bad at cooking",
+	        "sucks",
+	        "hate",
+          "balls"
+        ],
+        "responses":[
+          "yeah loser .",
+          ":/",
+          "you're done for in this town",
+	        "now I know not to invite you to my hangouts",
+	        "it’s alright i guess"
+
+        ]
+      },
+      {
+        "triggers": [
+          "hey",
+	        "hi",
+          "hello",
+	        "sup",
+	        "nice to meet you",
+	        "how are you"
+
+        ],
+        "responses":[
+          "nice to meet you, ask me something about cooking",
+          "hey. i am either max or lucia. i hardly know so don't ask. let's talk about cooking instead",
+          "hello there chap, you can refer to me as chef"
+
+        ]
+      },
+      {
+        "triggers": [
+          "apple",
+          "carrot",
+          "rice",
+          "teriyaki",
+          "sushi",
+          "pee",
+          "curry",
+          "noodle",
+          "just pasta sauce",
+          "raw",
+          "oatmilk",
+          "peanut butter",
+          "choccy",
+          "flour"
+        ],
+        "responses":[
+          "wow incredibly yummy",
+          "deeelicious",
+          "creaming… ;-)",
+          "i am drooling",
+          "foaming at the mouth rn. in a good way"
+
+        ]
+      }
+   ],
+   "catchall":[
+     "hey i don't know what that means, but you need to get it together and ask something else.",
+     "ding dong welcome to a sexy catchall response. fancy meeting you here ;-). stay awhile… ",
+     "hmm. that ain't what im here for. try asking for some advice, king."
+
+   ]
+}
